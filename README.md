@@ -19,7 +19,7 @@ This project is a **Stock Portfolio Management Dashboard** built completely in *
 ✅ Slicers  
 ✅ Conditional Formatting  
 ✅ Excel Formulas  
-✅ VBA Macros  
+✅ Macros  
 
 The dashboard helps analyze:
 
