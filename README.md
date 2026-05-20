@@ -119,12 +119,7 @@ The following cleaning operations were performed:
 
 | ⚡ Macro | 🎯 Purpose |
 |---|---|
-| Refresh Dashboard | Refresh all Pivot Tables |
 | Add Stock | Add new stock entries |
-| Reset Filters | Clear slicers & filters |
-| Export PDF | Export dashboard report |
-| Clean Data | Automate cleaning process |
-
 ---
 
 # 🛠 Tools & Technologies
