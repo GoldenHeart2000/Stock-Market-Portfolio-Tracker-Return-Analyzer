@@ -90,13 +90,20 @@ The following cleaning operations were performed:
 - Combo Chart
 - Treemap Chart
 
+<img width="582" height="335" alt="image" src="https://github.com/user-attachments/assets/ff42461c-6a8b-4320-9d53-3763f874e456" />
+<img width="534" height="319" alt="image" src="https://github.com/user-attachments/assets/3506b9db-0ed2-4c87-9c3c-e186f83a2ee1" />
+<img width="584" height="309" alt="image" src="https://github.com/user-attachments/assets/c714bbfc-7702-422f-bba5-ccc965b8c803" />
+<img width="534" height="341" alt="image" src="https://github.com/user-attachments/assets/feb9f93e-35c1-4c87-b8c9-68f18f0f6154" />
+
+
+
 ---
 
 ## 🎛 Interactive Slicers
 - Sector
 - Broker
 - Portfolio Type
-- Date Timeline
+  
 
 ---
 
