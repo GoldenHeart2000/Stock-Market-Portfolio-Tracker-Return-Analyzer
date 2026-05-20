@@ -115,7 +115,7 @@ The following cleaning operations were performed:
 
 ---
 
-# 🤖 VBA Macros Used
+# 🤖 Macros Used
 
 | ⚡ Macro | 🎯 Purpose |
 |---|---|
