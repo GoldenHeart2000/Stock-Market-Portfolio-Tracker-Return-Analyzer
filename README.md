@@ -103,7 +103,9 @@ The following cleaning operations were performed:
 - Sector
 - Broker
 - Portfolio Type
-  
+  <img width="176" height="316" alt="image" src="https://github.com/user-attachments/assets/45eb3969-c15b-4010-83bd-64550e38e69b" />
+  <img width="181" height="321" alt="image" src="https://github.com/user-attachments/assets/d6aa8dff-1bf1-4f06-97c8-c08751edb166" />
+
 
 ---
 
