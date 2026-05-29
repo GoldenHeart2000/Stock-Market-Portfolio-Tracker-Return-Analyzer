@@ -26,7 +26,7 @@ The project transforms raw stock market data into an interactive dashboard throu
 ✅ Pivot Charts
 ✅ Slicers
 ✅ Conditional Formatting
-✅ VBA Automation
+
 
 ---
 
