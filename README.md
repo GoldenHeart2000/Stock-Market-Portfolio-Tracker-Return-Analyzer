@@ -362,7 +362,7 @@ The dashboard helps investors:
 
 # 👨‍💻 Developed By
 
-## Sarthak Mukherjee
+## Sarthak Mukherjee & Surojit Jana
 
 🎓 B.Tech Computer Science & Engineering
 
@@ -373,7 +373,7 @@ The dashboard helps investors:
 * SQL
 * HTML
 * CSS
-* JavaScript
+* Python
 * Data Analytics
 
 ---
