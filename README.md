@@ -197,10 +197,20 @@ The dashboard displays important Key Performance Indicators:
 | 📈 Return %             | Overall portfolio performance |
 
 These KPIs provide an instant snapshot of portfolio health.
-<img width="527" height="337" alt="image" src="https://github.com/user-attachments/assets/5858b05d-82b2-4559-9322-8078cc23fb3b" />
-<img width="528" height="336" alt="image" src="https://github.com/user-attachments/assets/a5c47b06-5cb9-40a4-92cc-53a99dcaba56" />
-<img width="1126" height="542" alt="image" src="https://github.com/user-attachments/assets/48eea6df-ffca-4ebf-bf3e-259e9639849e" />
+## 📸 Dashboard Preview
 
+### 🏠 Home Page
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5858b05d-82b2-4559-9322-8078cc23fb3b" width="850">
+</p>
+
+### 📊 Dashboard & Analysis
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a5c47b06-5cb9-40a4-92cc-53a99dcaba56" width="420">
+<img src="https://github.com/user-attachments/assets/48eea6df-ffca-4ebf-bf3e-259e9639849e" width="420">
+</p>
 
 ---
 
